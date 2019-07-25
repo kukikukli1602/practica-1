@@ -13,4 +13,7 @@ En la práctica numero 3 realizar un programa donde calcula el Índice de Masa C
 <img src="1.PNG">
 <img src ="2.PNG">
 Nuestro programa funcionando queda de la siguiente manera:
+<img src="3.PNG">
 
+##Prática 3
+En la práctica 4 realizamos un programa en donde el led prende y apaga. Para esto conectamos un led virtual y un botón de Stop.
