@@ -16,4 +16,4 @@ Nuestro programa funcionando queda de la siguiente manera:
 <img src="3.PNG">
 
 ##Prática 3
-En la práctica 4 realizamos un programa en donde el led prende y apaga. Para esto conectamos un led virtual y un botón de Stop.
+En la práctica 4 realizamos un programa en donde el led prende y apaga. Para esto conectamos un led virtual y un botón deStop.
