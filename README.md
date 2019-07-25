@@ -19,3 +19,4 @@ Nuestro programa funcionando queda de la siguiente manera:
 En la práctica 4 realizamos un programa en donde el led prende y apaga. Para esto conectamos un led virtual y un botón deStop.
 <img src="1.PNG">
 La forma de conexión de este programa se muestra en la siguiente imagen, notando que hay nuevos componentes.
+<img src="2.PNG">
