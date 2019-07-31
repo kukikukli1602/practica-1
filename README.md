@@ -5,5 +5,4 @@ Esto se muestra a continuación
 <img src="bloques.PNG">
 La forma de conexión del sistema queda de esta manera donde podemos visualizar la forma en que se conecta cada componente
 <img src= "2.PNG">
-Posteriormente vemos el funcionamiento de dicho sistema 
-<img src="3.PNG">
+Posteriormente vemos el funcionamiento de dicho sistema:
