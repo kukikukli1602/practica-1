@@ -7,6 +7,3 @@ La forma de conexión del sistema queda de esta manera donde podemos visualizar 
 <img src= "2.PNG">
 Posteriormente vemos el funcionamiento de dicho sistema 
 <img src="3.PNG">
-
-## Práctic 2
-En la práctica numero 3 realizar un programa donde calcula el Índice de Masa Corporal, para esto tuvimos que adquirir la fórmula para obtener el resultado (peso/altura^2). Tuvimos que poner 3 constantes para que el usuario pusiera sus datos, de este modo la conexión de los mismos será a la de la formula. Además, colocamos un termómetro como indicador para que nos señale si tenemos un peso normal, si tenemos sobrepeso o tenemos bajo peso. Esto se muestra a continuacin.
