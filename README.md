@@ -44,3 +44,8 @@ En la práctica 5 desarrollamos una interfaz con la placa de adquisición llamad
 
 <img src ="12.PNG">
 
+Para la conexión de arduino tenemos que señalar el puerto en que está conectado, de esta manera se podrá realizar la interfaz, también se colocara la salida que se está manejando en arduino, en este caso es el pin 13. Esto se muestra a continuación:
+
+<img src="11.PNG">
+
+Nuestra conexión con arduino queda de esta manera, también pudiendo observar que el led esta prendido y apagado.
