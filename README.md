@@ -23,3 +23,6 @@ La conexión virtual del sistema es muy sencilla, esto se muestra a continuació
 
 Nuestro programa funcionando queda de la siguiente manera :
 
+<img src ="6.PNG">
+
+##Práctica 4 
