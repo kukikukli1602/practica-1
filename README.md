@@ -40,3 +40,7 @@ La forma en que funciona este sistema se muestra a continuación. Observe que so
 <img src = "9.PNG">
 
 ##Prática 5 
+En la práctica 5 desarrollamos una interfaz con la placa de adquisición llamada arduino, la forma de conexión es diferente ya que se tiene que enlazar arduino con nuestro programa. La función de esta práctica es el prender un led y apagarse constantemente. La conexión virtual se desarrolla de esta manera:
+
+<img src ="12.PNG">
+
