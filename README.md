@@ -36,3 +36,7 @@ Nuestro panel que ve el operador es de esta manera:
 <img src="7.PNG">
 
 La forma en que funciona este sistema se muestra a continuación. Observe que solo se muestra el un led virtual y un botón de paro.
+
+>img src="9.PNG">
+
+##Prática 5 
