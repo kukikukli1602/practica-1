@@ -72,5 +72,11 @@ Nuestra conexión con arduino queda de esta manera, también pudiendo observar q
 Para desarrollar esta práctica necesitamos realizar la interfaz de arduino con lavbiew, de esta manera podremos trabajar adecuadamente. La función de esta práctica es que cuando se presione un interruptor conectada al arduino mande una señal para que esta mande un pulso y prenda un foco virtual y ala ves mande una señal senoidal y al volver a presionar el botón este pare.
 Para esto realizamos una conexión en protoboard y en la salida manda un pulso en el pin 8 del arduino, con esto hace que prenda el foco y con esto manda la orden de marcar la onda senoidal. Esto se muestra a continuación:
 
+<img src="18.PNG">
+
+<img src ="19.PNG">
 
 La conexión del protoboard está de esta manera:
+
+<img src ="20.PNG">
+
