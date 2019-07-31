@@ -26,3 +26,6 @@ Nuestro programa funcionando queda de la siguiente manera :
 <img src ="6.PNG">
 
 ##Práctica 4 
+En esta práctica realizamos la conexión de un led en el cual parpadea cada medio segundo. 
+La forma de conexión virtual queda de la siguiente manera, donde podemos observar que funciona mediante un ciclo  repetitivo y de esta manera jamas se detenga asta que el operador lo detenga:
+
