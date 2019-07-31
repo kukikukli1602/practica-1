@@ -43,10 +43,15 @@ La forma en que funciona este sistema se muestra a continuación. Observe que so
 ##Prática 4 
 En esta práctica desarrollamos un sistema en donde se conecta un termómetro junto con un led, donde su principal función es que si se pasa del límite establecido el led prende, este límite se controla mediante un controlador en donde el usuario puede poner el límite que desee. Todo esto funciona mediante un ciclo repetitivo para que no se pare el programa a cada rato.
 
+<img src ="16.PNG">
 
 Como vemos en la imagen anterior aparece la conexión interna del programa en donde el usuario no podrá verlo, en la imagen que aparece a continuación se muestra lo que el usuario vera y podre manipular, que en este caso solo será el límite de temperatura para que prenda y apague el led.
 
+<img src ="15.PNG">
+
 La forma final del programa de esta manera:
+
+<img src ="17.PNG">
 
 ##Práctica 5 
 En la práctica 5 desarrollamos una interfaz con la placa de adquisición llamada arduino, la forma de conexión es diferente ya que se tiene que enlazar arduino con nuestro programa. La función de esta práctica es el prender un led y apagarse constantemente. La conexión virtual se desarrolla de esta manera:
