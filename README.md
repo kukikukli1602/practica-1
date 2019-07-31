@@ -19,3 +19,7 @@ En la práctica numero 3 realizar un programa donde calcula el Índice de Masa C
 
 La conexión virtual del sistema es muy sencilla, esto se muestra a continuación:
 
+<img src="5.PNG">
+
+Nuestro programa funcionando queda de la siguiente manera :
+
