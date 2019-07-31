@@ -49,3 +49,5 @@ Para la conexión de arduino tenemos que señalar el puerto en que está conecta
 <img src="11.PNG">
 
 Nuestra conexión con arduino queda de esta manera, también pudiendo observar que el led esta prendido y apagado.
+
+<img src ="13.PNG">
