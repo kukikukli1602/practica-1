@@ -12,7 +12,7 @@ Posteriormente vemos el funcionamiento de dicho sistema
 
 <img src="3.PNG">
 
-#Práctica 2
+## Práctica 2
 En la práctica numero 3 realizar un programa donde calcula el Índice de Masa Corporal, para esto tuvimos que adquirir la fórmula para obtener el resultado (peso/altura^2). Tuvimos que poner 3 constantes para que el usuario pusiera sus datos, de este modo la conexión de los mismos será a la de la formula. Además, colocamos un termómetro como indicador para que nos señale si tenemos un peso normal, si tenemos sobrepeso o tenemos bajo peso. Esto se muestra a continuación.
 
 
@@ -26,7 +26,7 @@ Nuestro programa funcionando queda de la siguiente manera :
 
 <img src ="6.PNG">
 
-##Práctica 3
+## Práctica 3
 En esta práctica realizamos la conexión de un led en el cual parpadea cada medio segundo. 
 La forma de conexión virtual queda de la siguiente manera, donde podemos observar que funciona mediante un ciclo  repetitivo y de esta manera jamas se detenga asta que el operador lo detenga:
 
@@ -40,7 +40,7 @@ La forma en que funciona este sistema se muestra a continuación. Observe que so
 
 <img src = "9.PNG">
 
-##Prática 4 
+## Prática 4 
 En esta práctica desarrollamos un sistema en donde se conecta un termómetro junto con un led, donde su principal función es que si se pasa del límite establecido el led prende, este límite se controla mediante un controlador en donde el usuario puede poner el límite que desee. Todo esto funciona mediante un ciclo repetitivo para que no se pare el programa a cada rato.
 
 <img src ="16.PNG">
@@ -53,7 +53,7 @@ La forma final del programa de esta manera:
 
 <img src ="17.PNG">
 
-##Práctica 5 
+## Práctica 5 
 En la práctica 5 desarrollamos una interfaz con la placa de adquisición llamada arduino, la forma de conexión es diferente ya que se tiene que enlazar arduino con nuestro programa. La función de esta práctica es el prender un led y apagarse constantemente. La conexión virtual se desarrolla de esta manera:
 
 <img src ="12.PNG">
@@ -68,7 +68,7 @@ Nuestra conexión con arduino queda de esta manera, también pudiendo observar q
 
 <img src ="14.PNG">
 
-#Práctica 6
+## Práctica 6
 Para desarrollar esta práctica necesitamos realizar la interfaz de arduino con lavbiew, de esta manera podremos trabajar adecuadamente. La función de esta práctica es que cuando se presione un interruptor conectada al arduino mande una señal para que esta mande un pulso y prenda un foco virtual y ala ves mande una señal senoidal y al volver a presionar el botón este pare.
 Para esto realizamos una conexión en protoboard y en la salida manda un pulso en el pin 8 del arduino, con esto hace que prenda el foco y con esto manda la orden de marcar la onda senoidal. Esto se muestra a continuación:
 
@@ -80,7 +80,7 @@ La conexión del protoboard está de esta manera:
 
 <img src ="20.PNG">
 
-#Práctica 7 
+## Práctica 7 
 En la práctica número 7 se realizó un sistema de prendido y apagado de un led con la diferencia que este tiene que parpadear al momento de presionar el botón. 
 Se tuvo que conectar en la tablilla protoboard un foco led con un apagador. Una de las salidas del apagador va a la entrada 8 del arduino para que este mande la señal en lavbiew. La otra entrada que manda arduino es la del led, que va conectada en la entrada 4. La forma de conexión en lavbiew es de esta manera:
 
@@ -96,4 +96,12 @@ Y por último la conexión de la tablilla protoboard es de esta manera:
 
 <img src="24.PNG">
 
-##Practica 8 
+## Practica 8 
+En esta práctica realizamos un proyecto con un sensor LM35, la forma de su conexión es diferente ya que el sensor manda señale analógicas y de esta manera es diferente. Como hemos visto en prácticas anteriores se realiza el interfaz con arduino para que su conexión sea aún más fácil. La forma de conexión en lavbiew es sencilla, ya que se conecta con un ciclo repetitivo para que este esté trabajando constantemente, a su vez, conectamos un termómetro para que este marque la temperatura en la que se encuentra la persona. Su forma de conexión se visualiza a continuación:
+
+<img src="24.PNG">
+
+Por otra parte, el usuario solo vería un termómetro virtual y la entrada de arduino
+
+<img src ="25.PNG">
+
