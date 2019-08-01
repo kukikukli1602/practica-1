@@ -84,9 +84,16 @@ La conexión del protoboard está de esta manera:
 En la práctica número 7 se realizó un sistema de prendido y apagado de un led con la diferencia que este tiene que parpadear al momento de presionar el botón. 
 Se tuvo que conectar en la tablilla protoboard un foco led con un apagador. Una de las salidas del apagador va a la entrada 8 del arduino para que este mande la señal en lavbiew. La otra entrada que manda arduino es la del led, que va conectada en la entrada 4. La forma de conexión en lavbiew es de esta manera:
 
+<img src="21.PNG">
 
 En el sistema de bloques que ve el usuario es de esta manera, note que solo se visualiza el foco virtual.
 
+<img src="22.PNG">
 
 Y por último la conexión de la tablilla protoboard es de esta manera:
 
+<img src="23.PNG">
+
+<img src="24.PNG">
+
+##Practica 8 
