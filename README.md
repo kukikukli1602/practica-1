@@ -99,12 +99,12 @@ Y por último la conexión de la tablilla protoboard es de esta manera:
 ## Practica 8 
 En esta práctica realizamos un proyecto con un sensor LM35, la forma de su conexión es diferente ya que el sensor manda señale analógicas y de esta manera es diferente. Como hemos visto en prácticas anteriores se realiza el interfaz con arduino para que su conexión sea aún más fácil. La forma de conexión en lavbiew es sencilla, ya que se conecta con un ciclo repetitivo para que este esté trabajando constantemente, a su vez, conectamos un termómetro para que este marque la temperatura en la que se encuentra la persona. Su forma de conexión se visualiza a continuación:
 
-<img src="24.PNG">
+<img src="25.PNG">
 
 Por otra parte, el usuario solo vería un termómetro virtual y la entrada de arduino
 
-<img src ="25.PNG">
+<img src ="26.PNG">
 
 Anteriormente solo se habló de la manera virtual, ahora hablaremos de la forma física, donde se conectó el sensor LM35, en donde la salida que manda el sensor se conectó a la entrada digital del arduino que fue la A0, esta entrada se pone en el programa de lavbiew como se mostró en la imagen anterior. Nuestro circuito queda de la siguiente manera:
 
-<img src ="26.PNG">
+<img src ="27.PNG">
