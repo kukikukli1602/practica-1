@@ -105,3 +105,6 @@ Por otra parte, el usuario solo vería un termómetro virtual y la entrada de ar
 
 <img src ="25.PNG">
 
+Anteriormente solo se habló de la manera virtual, ahora hablaremos de la forma física, donde se conectó el sensor LM35, en donde la salida que manda el sensor se conectó a la entrada digital del arduino que fue la A0, esta entrada se pone en el programa de lavbiew como se mostró en la imagen anterior. Nuestro circuito queda de la siguiente manera:
+
+<img src ="26.PNG">
