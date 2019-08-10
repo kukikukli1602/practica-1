@@ -108,3 +108,19 @@ Por otra parte, el usuario solo vería un termómetro virtual y la entrada de ar
 Anteriormente solo se habló de la manera virtual, ahora hablaremos de la forma física, donde se conectó el sensor LM35, en donde la salida que manda el sensor se conectó a la entrada digital del arduino que fue la A0, esta entrada se pone en el programa de lavbiew como se mostró en la imagen anterior. Nuestro circuito queda de la siguiente manera:
 
 <img src ="27.PNG">
+
+##Práctica 9
+En la práctica número 9 se realiza el control de un motor, este control determina el giro del motor, ya sea en giro anti horario u horario además que tiene un control de velocidad del motor. Para realizar esta práctica realizamos el enlace de arduino con lavbiew
+
+La forma de conexión del circuito es algo fácil, primero tenemos que ingresar nuestro ciclo repetitivo. Después se colocarán los controles para manejar arduino, y por último se colocan los controladores y las entradas del motor en donde esto sirve para que podamos tener el control del motor. 
+
+
+
+Como vemos en la imagen anterior se muestra la conexión interna del diagrama de bloques en donde el usuario no puede ver esta conexión. En la siguiente imagen se muestra la forma en que aparece en el programa ya funcionando, donde el usuario tendrá acceso a manejar la velocidad de motor, así como el giro del mismo y si desea conectar otro puerto lo puede hacer. 
+
+
+A continuación, se muestra la forma de conexión del arduino donde es el medio de comunicación por donde se tendrá control de dicho motor.
+
+
+Y por último se muestra el programa ya funcionando.
+
