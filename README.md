@@ -114,13 +114,26 @@ En la práctica número 9 se realiza el control de un motor, este control determ
 
 La forma de conexión del circuito es algo fácil, primero tenemos que ingresar nuestro ciclo repetitivo. Después se colocarán los controles para manejar arduino, y por último se colocan los controladores y las entradas del motor en donde esto sirve para que podamos tener el control del motor. 
 
-
+<img src="32.PNG">
 
 Como vemos en la imagen anterior se muestra la conexión interna del diagrama de bloques en donde el usuario no puede ver esta conexión. En la siguiente imagen se muestra la forma en que aparece en el programa ya funcionando, donde el usuario tendrá acceso a manejar la velocidad de motor, así como el giro del mismo y si desea conectar otro puerto lo puede hacer. 
 
+<img src ="31.PNG">
 
 A continuación, se muestra la forma de conexión del arduino donde es el medio de comunicación por donde se tendrá control de dicho motor.
 
+<img src ="30.PNG">
 
 Y por último se muestra el programa ya funcionando.
 
+<img src ="33.PNG">
+
+## Práctica 11
+En esta práctica se realiza la conexión de un sensor análogo LM35, la principal función de este programa es que mande un aviso al usuario de es un problema de congelamiento, sobrecalentamiento o si esta en temperatura normal, este mensaje lo manda por medio de una comparación para así poder tener el mensaje, todo esto va conectado a un termómetro virtual donde marca la temperatura que manda el sensor LM35 en tiempo real. Esto se visualiza a continuación.
+
+
+
+De forma que al mandar la temperatura el sensor de forma física esta la manda al termómetro para que este mande el mensaje si está en peligro o no el operador.
+
+
+ Y todo este programa se ve de esta forma 
