@@ -131,9 +131,14 @@ Y por último se muestra el programa ya funcionando.
 ## Práctica 11
 En esta práctica se realiza la conexión de un sensor análogo LM35, la principal función de este programa es que mande un aviso al usuario de es un problema de congelamiento, sobrecalentamiento o si esta en temperatura normal, este mensaje lo manda por medio de una comparación para así poder tener el mensaje, todo esto va conectado a un termómetro virtual donde marca la temperatura que manda el sensor LM35 en tiempo real. Esto se visualiza a continuación.
 
-
+<img src ="34.PNG">
 
 De forma que al mandar la temperatura el sensor de forma física esta la manda al termómetro para que este mande el mensaje si está en peligro o no el operador.
 
+<img src ="35.PNG">
 
  Y todo este programa se ve de esta forma 
+
+<img src ="36.PNG">
+<img src ="37.PNG">
+
