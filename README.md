@@ -1,5 +1,5 @@
 # Manual de Practicas 
-## practica 1 
+## Práctica 1
 En esta práctica desarrollamos un programa en donde se tienen que sumar dos números, para esto tuvimos que poner un ciclo while para que el programa sea cíclico. Pusimos dos constantes con un rango de 0 a 10 y lo enlazamos a un bloque llamado ADD en donde su función es sumar y el resultado obtenido lo manda a un componente llamado indicador en el cual su función es mostrar el resultado de dicha suma
 Esto se muestra a continuación 
 
@@ -141,4 +141,11 @@ De forma que al mandar la temperatura el sensor de forma física esta la manda a
 
 <img src ="36.PNG">
 <img src ="37.PNG">
+
+## Práctica 12 
+En la practica 12 se realizó una conexión con display de 7 segmentos, la cual su principal función es que mediante una perilla que marca los números del 0 al 99 lo marque en forma virtual y en modo real, de manera que cuando marque 23 este esté marcando en las dos formas. La forma de conexión es un poco complicada ya que se debe de poner con 0 y 1 para que este marque el numero deseado. La forma de conexión en se muestra en la siguiente imagen .
+
+< img src ="38.PNG">
+
+<img src="39.PNG">
 
