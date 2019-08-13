@@ -145,7 +145,14 @@ De forma que al mandar la temperatura el sensor de forma física esta la manda a
 ## Práctica 12 
 En la practica 12 se realizó una conexión con display de 7 segmentos, la cual su principal función es que mediante una perilla que marca los números del 0 al 99 lo marque en forma virtual y en modo real, de manera que cuando marque 23 este esté marcando en las dos formas. La forma de conexión es un poco complicada ya que se debe de poner con 0 y 1 para que este marque el numero deseado. La forma de conexión en se muestra en la siguiente imagen .
 
-< img src ="38.PNG">
+<img src="38.PNG">
 
 <img src="39.PNG">
 
+Como se muestra en la imagen anterior su forma de conexión es un poco compleja. En el panel frontal que es donde el usuario puede interactuar con la aplicación se ve de la siguiente manera. Note que solo se muestra la forma del display de 7 segmentos y la perilla con el cual s pondrá la numeración requerida.
+
+<img src="40.PNG">
+
+La forma en que se muestra el programa ya funcionando se ve de esta manera
+
+<img src="41.PNG">
